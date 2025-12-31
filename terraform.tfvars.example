@@ -1,0 +1,9 @@
+# =============================================================================
+# Terraform Variables - Example Configuration
+# =============================================================================
+# Copy this file to terraform.tfvars and update with your actual values
+# IMPORTANT: Never commit terraform.tfvars to version control!
+# =============================================================================
+
+sql_admin_username = "sqladmin"
+sql_admin_password = "YourStrongP@ssword123!"
