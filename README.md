@@ -12,7 +12,6 @@
 - [Security Features](#-security-features)
 - [Cost Estimation](#-cost-estimation)
 - [Cleanup](#-cleanup)
-- [Interview Preparation](#-interview-preparation)
 - [Contributing](#-contributing)
 
 ---
@@ -77,7 +76,7 @@ Modify `main.tf` to:
 
 ## 💰 Cost Estimation
 
-> **Note**: Costs vary by region and usage. Below are approximate monthly costs for East US.
+> **Note**: Costs vary by region and usage. Below are approximate monthly costs for Australia East
 
 | Resource | SKU | Est. Monthly Cost |
 |----------|-----|------------------|
@@ -114,17 +113,6 @@ Type `yes` when prompted to confirm deletion.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
 
 ## 📄 License
 
@@ -134,11 +122,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Akhil**
+**Akhilesh**
 
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-
+- LinkedIn: https://www.linkedin.com/in/akhilesh-kaparaju-92ba88225/
 ---
 
 <p align="center">
