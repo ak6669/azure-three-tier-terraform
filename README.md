@@ -7,7 +7,6 @@
 - [Architecture Overview](#-architecture-overview)
 - [Components](#-components)
 - [Prerequisites](#-prerequisites)
-- [Quick Start](#-quick-start)
 - [Configuration](#-configuration)
 - [Security Features](#-security-features)
 - [Cost Estimation](#-cost-estimation)
